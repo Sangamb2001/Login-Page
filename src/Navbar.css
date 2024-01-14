@@ -1,0 +1,26 @@
+/* Navbar.css */
+nav {
+    background-color: white;
+    color: black;
+    padding: 10px;
+  }
+  
+  ul {
+    list-style: none;
+    display: flex;
+    padding: 0;
+  }
+  
+  li {
+    margin: 0 10px;
+  }
+li  #hello{
+    height: 70px;
+    color: blue;
+  }
+  
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  
